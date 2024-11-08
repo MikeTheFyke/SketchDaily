@@ -4,4 +4,6 @@
 Tech Stack
 
 - NextJs
+- TypeScript
+- TailwindCSS
 - MaterialUi
