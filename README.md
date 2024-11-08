@@ -1,5 +1,5 @@
 <h1>Sketch Daily</h1>
-<p>The daily sketch challenge, encouragement app.</p>
+<p>The daily sketch, challenge and encouragement app.</p>
 
 Tech Stack
 
